@@ -1,0 +1,281 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "image": "images/productsImages/asparagus.png",
+            "category": "freshVegetables",
+            "name": "asparagus",
+            "type": "vegetable",
+            "price": "12",
+            "sales": "20",
+            "minmaxPrice": "12-30",
+            "views": "100"
+        },
+        {
+            "id": "2",
+            "image": "images/productsImages/banana.png",
+            "category": "freshfruits",
+            "name": "Banana",
+            "type": "Fruite",
+            "price": "15",
+            "sales": "30",
+            "minmaxPrice": "10-25",
+            "views": "120"
+        },
+        {
+            "id": "3",
+            "image": "images/productsImages/broccoli.png",
+            "category": "freshVegetables",
+            "name": "Broccoli",
+            "type": "vegetable",
+            "price": "10",
+            "sales": "15",
+            "minmaxPrice": "5-15",
+            "views": "50"
+        },
+        {
+            "id": "4",
+            "image": "images/productsImages/carrot.png",
+            "category": "freshVegetables",
+            "name": "Carrot",
+            "type": "vegetable",
+            "price": "5",
+            "sales": "35",
+            "minmaxPrice": "5-8",
+            "views": "500"
+        },
+        {
+            "id": "5",
+            "image": "images/productsImages/coconut.png",
+            "category": "freshfruits",
+            "name": "Coconut",
+            "type": "Fruite",
+            "price": "20",
+            "sales": "25",
+            "minmaxPrice": "15-40",
+            "views": "110"
+        },
+        {
+            "id": "6",
+            "image": "images/productsImages/corn.png",
+            "category": "freshVegetables",
+            "name": "Corn",
+            "type": "vegetable",
+            "price": "10",
+            "sales": "25",
+            "minmaxPrice": "5-15",
+            "views": "200"
+        },
+        {
+            "id": "7",
+            "image": "images/productsImages/eggplant.png",
+            "category": "freshVegetables",
+            "name": "Eggplant",
+            "type": "vegetable",
+            "price": "10",
+            "sales": "10",
+            "minmaxPrice": "5-20",
+            "views": "30"
+        },
+        {
+            "id": "8",
+            "image": "images/productsImages/greencabbage.png",
+            "category": "freshVegetables",
+            "name": "Green Cabbage",
+            "type": "vegetable",
+            "price": "17",
+            "sales": "35",
+            "minmaxPrice": "10-30",
+            "views": "70"
+        },
+        {
+            "id": "9",
+            "image": "images/productsImages/lemon.png",
+            "category": "freshfruits",
+            "name": "Lemon",
+            "type": "Fruite",
+            "price": "5",
+            "sales": "22",
+            "minmaxPrice": "5-15",
+            "views": "150"
+        },
+        {
+            "id": "10",
+            "image": "images/productsImages/onion.png",
+            "category": "freshVegetables",
+            "name": "Onion",
+            "type": "vegetable",
+            "price": "35",
+            "sales": "30",
+            "minmaxPrice": "25-40",
+            "views": "100"
+        },
+        {
+            "id": "11",
+            "image": "images/productsImages/orange.png",
+            "category": "freshfruits",
+            "name": "Orange",
+            "type": "Fruite",
+            "price": "15",
+            "sales": "25",
+            "minmaxPrice": "10-30",
+            "views": "250"
+        },
+        {
+            "id": "12",
+            "image": "images/productsImages/papaya.png",
+            "category": "freshVegetables",
+            "name": "Papaya",
+            "type": "vegetable",
+            "price": "10",
+            "sales": "13",
+            "minmaxPrice": "5-20",
+            "views": "30"
+        },
+        {
+            "id": "13",
+            "image": "images/productsImages/peas.png",
+            "category": "freshVegetables",
+            "name": "Peas",
+            "type": "vegetable",
+            "price": "10",
+            "sales": "50",
+            "minmaxPrice": "10-20",
+            "views": "130"
+        },
+        {
+            "id": "14",
+            "image": "images/productsImages/pumpkin.png",
+            "category": "freshVegetables",
+            "name": "Pumpkin",
+            "type": "vegetable",
+            "price": "10",
+            "sales": "50",
+            "minmaxPrice": "5-15",
+            "views": "90"
+        },
+        {
+            "id": "15",
+            "image": "images/productsImages/radish.png",
+            "category": "freshVegetables",
+            "name": "Radish",
+            "type": "vegetable",
+            "price": "30",
+            "sales": "60",
+            "minmaxPrice": "20-40",
+            "views": "80"
+        },
+        {
+            "id": "16",
+            "image": "images/productsImages/redcabbage.png",
+            "category": "freshVegetables",
+            "name": "Red Cabbage",
+            "type": "vegetable",
+            "price": "15",
+            "sales": "25",
+            "minmaxPrice": "10-30",
+            "views": "250"
+        },
+        {
+            "id": "17",
+            "image": "images/productsImages/redguava.png",
+            "category": "freshfruits",
+            "name": "Red Guava",
+            "type": "Fruite",
+            "price": "20",
+            "sales": "50",
+            "minmaxPrice": "10-30",
+            "views": "500"
+        },
+        {
+            "id": "18",
+            "image": "images/productsImages/redorange.png",
+            "category": "freshfruits",
+            "name": "Red Orange",
+            "type": "Fruite",
+            "price": "50",
+            "sales": "60",
+            "minmaxPrice": "40-100",
+            "views": "370"
+        },
+        {
+            "id": "19",
+            "image": "images/productsImages/spinach.png",
+            "category": "freshVegetables",
+            "name": "Spinach",
+            "type": "vegetable",
+            "price": "15",
+            "sales": "55",
+            "minmaxPrice": "10-30",
+            "views": "450"
+        },
+        {
+            "id": "20",
+            "image": "images/productsImages/strawberry.png",
+            "category": "freshfruits",
+            "name": "Strawberry",
+            "type": "Fruite",
+            "price": "25",
+            "sales": "30",
+            "minmaxPrice": "20-40",
+            "views": "600"
+        },
+        {
+            "id": "21",
+            "image": "images/productsImages/tomato.png",
+            "category": "freshVegetables",
+            "name": "Tomato",
+            "type": "vegetable",
+            "price": "15",
+            "sales": "100",
+            "minmaxPrice": "10-20",
+            "views": "100"
+        },
+        {
+            "id": "22",
+            "image": "images/productsImages/whiteguava.png",
+            "category": "freshfruits",
+            "name": "White Guava",
+            "type": "Fruite",
+            "price": "20",
+            "sales": "40",
+            "minmaxPrice": "15-30",
+            "views": "300"
+        },
+        {
+            "id": "23",
+            "image": "images/productsImages/zucchini.png",
+            "category": "freshVegetables",
+            "name": "Zucchini",
+            "type": "vegetable",
+            "price": "15",
+            "sales": "50",
+            "minmaxPrice": "10-30",
+            "views": "200"
+        }
+        
+    ],
+    "categories": [
+        {
+            "id": "1",
+            "image":"images/categoryImages/freshfruits.png",
+            "name": "Fresh Fruits"
+        },
+        {
+            "id": "2",
+            "image": "images/categoryImages/freshVegetables.png",
+            "name": "Fresh Vegetables"
+        },
+        {
+            "id": "3",
+            "image": "images/categoryImages/seedandnuts.png",
+            "name": "Seeds and Nuts"
+        },
+        {
+            "id": "4",
+            "image": "images/categoryImages/breadandCookies.png",
+            "name": "Bread and Cookies"
+        }
+    ]
+    
+}
